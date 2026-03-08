@@ -1,4 +1,4 @@
-# tableau-sales-dashboard
+# Tableau-Sales-Dashboard 
 Interactive retail sales dashboard built with Tableau to practice data analysis and visualization.
 
 ## Dashboard Access
